@@ -25,7 +25,30 @@
                   <meta name="description" content="A Page for exploring HTML documents">
                   <title>Basic HTML documents</title>
                 </head>
+                <body>
+                </body>
                </html>
         3. body
+            1. sibling to head
+            2. <body>
+                    <h1>Page content</h1>
+                    <p>Some<b>random</b> text.</p>
+               </body>
+        4. Content Models
+            1. old version
+                1. block level element
+                    1. take up own line
+                2. inline level element
+                    1. in line
+            2. new version
+                1. flow
+                2. metadata
+                3. embedded
+                4. interactive
+                5. heading
+                6. phrasing
+                7. sectioning
+
+3. 
 
 
