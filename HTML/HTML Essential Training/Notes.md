@@ -49,6 +49,27 @@
                 6. phrasing
                 7. sectioning
 
-3. 
+3. Formatting Page Content
+    1. Formatting content with HTML
+        1. <pre>content</pre> —— preformat
+        2. <b>content</b> —— bold
+        3. <strong>content</strong> —— strong emphasize
+    2. Headings
+        1. h1 to h6
+    3. Paragraphs
+    4. Line Breaks
+        1. <br>
+    5. Emphasize Texts
+        1. <b>content</b>
+        2. <strong>content</strong>
+        3. <i>content</i>
+        4. <em>content</em>
+    6. Displaying Special Characters
+        1. named character identity
+            1. &xxxx;
+    7. Controlling white space
+        1. &nbsp; —— non breaking white space
+    8. Displaying images
+        1. 
 
 
