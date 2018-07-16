@@ -70,6 +70,10 @@
     7. Controlling white space
         1. &nbsp; —— non breaking white space
     8. Displaying images
-        1. 
+        1. <img src="path_to_the_image" width="x" height="x" alt="description_of_the_image">
+            1. width, height, and alt are optional
+        2. other attributes to use
+            1. align="right"
+                1. text wrapped around on the right
 
 
