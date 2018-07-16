@@ -14,4 +14,18 @@
     3. nesting
         1. children tag must close before parent tag closes
 
+2. Basic Page Structure
+    1. HTML Document
+        1. DOCTYPE
+            1. <!doctype html>
+        2. head
+            1. <html lang="en">
+                 <head>
+                  <meta charset="utf-8">
+                  <meta name="description" content="A Page for exploring HTML documents">
+                  <title>Basic HTML documents</title>
+                </head>
+               </html>
+        3. body
+
 
