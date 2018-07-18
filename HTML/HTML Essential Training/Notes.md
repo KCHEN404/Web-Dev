@@ -77,3 +77,17 @@
                 1. text wrapped around on the right
 
 
+4. Structure Content
+    1. Sectioning Elements
+        1. <h1..6>
+        2. <article>
+        3. <aside>
+        4. <nav>
+            1. 
+        5. <section>
+    2. Semantic Elements
+        1. <header>
+        2. <main>
+        3. <footer>
+    3. Document Outlines
+        1. 
